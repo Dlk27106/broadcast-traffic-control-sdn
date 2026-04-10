@@ -205,24 +205,3 @@ broadcast-traffic-control-sdn/
     └── dump_flows.png            # OVS flow table
 ```
 
----
-
-## 📋 Evaluation Coverage
-
-| Criteria | Status |
-|----------|--------|
-| Problem Understanding & Setup | ✅ |
-| SDN Logic & Flow Rule Implementation | ✅ |
-| Functional Correctness (Demo) | ✅ |
-| Performance Observation (ping + iperf) | ✅ |
-| Explanation & Validation | ✅ |
-
----
-
-## 📚 References
-
-- [Mininet Official Site](https://mininet.org)
-- [POX Controller Documentation](https://github.com/noxrepo/pox)
-- [OpenFlow 1.0 Specification](https://opennetworking.org)
-- [Open vSwitch Documentation](https://www.openvswitch.org)
-- Mininet Installation Guide - UE24CS252B Lab Manual, PES University
